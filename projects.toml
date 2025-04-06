@@ -1,0 +1,123 @@
+# 项目配置文件
+
+[[categories]]
+name = "客户端"
+name_en = "Clients"
+
+[[categories.projects]]
+name = "0xchat"
+name_en = "0xchat"
+url = "https://github.com/0xchat-app"
+description = "一个类似于 Telegram/WeChat 的 Nostr 客户端，支持 iOS 和 Android"
+description_en = "A telegram/wechat-like nostr client for iOS and Android"
+tags = ["移动端", "聊天"]
+tags_en = ["mobile", "chat"]
+
+[[categories.projects]]
+name = "Jumble"
+name_en = "Jumble"
+url = "https://github.com/CodyTseng/jumble"
+description = "一个交互友好的 Nostr 客户端，专注于中继器浏览和发现"
+description_en = "A user-friendly Nostr client focused on relay feed browsing and relay discovery"
+tags = ["网页端"]
+tags_en = ["web"]
+
+[[categories.projects]]
+name = "Nostrmo"
+name_en = "Nostrmo"
+url = "https://github.com/haorendashu/nostrmo"
+description = "一个 Flutter 开发的 Nostr 客户端，支持 Android、iOS、macOS、Windows、Web 和 Linux"
+description_en = "A flutter nostr client for Android, IOS, MacOS, Windows, Web and Linux"
+tags = ["移动端", "桌面端"]
+tags_en = ["mobile", "desktop"]
+
+[[categories]]
+name = "中继器"
+name_en = "Relays"
+
+[[categories.projects]]
+name = "wss://nostr.moe"
+name_en = "wss://nostr.moe"
+url = "https://nostr.moe/"
+description = "待 cxplay 补充"
+description_en = "To be supplemented by cxplay"
+tags = ["ACG"]
+tags_en = ["ACG"]
+
+[[categories.projects]]
+name = "wss://nostr-relay.app"
+name_en = "wss://nostr-relay.app"
+url = "https://jumble.social/?r=nostr-relay.app"
+description = "一个用于测试的普通的免费的公共 Nostr 中继器"
+description_en = "A normal free public Nostr relay for testing"
+
+[[categories]]
+name = "中继器实现"
+name_en = "Relay Implementations"
+
+[[categories.projects]]
+name = "nostr-relay-tray"
+name_en = "nostr-relay-tray"
+url = "https://github.com/CodyTseng/nostr-relay-tray"
+description = "一个非开发者也能轻松运行的桌面端 Nostr 中继器，支持 Windows、macOS 和 Linux"
+description_en = "A desktop Nostr relay that non-developers can easily run, supporting Windows, macOS, and Linux"
+
+[[categories]]
+name = "库"
+name_en = "Libraries"
+
+[[categories.projects]]
+name = "nostr-relay"
+name_en = "nostr-relay"
+url = "https://github.com/CodyTseng/nostr-relay"
+description = "一个开发中继器的 TypeScript 框架"
+description_en = "A TypeScript framework for building relays"
+
+[[categories]]
+name = "机器人"
+name_en = "Bots"
+
+[[categories.projects]]
+name = "日本語JLPT文法"
+name_en = "Japanese JLPT Grammar"
+url = "https://jumble.social/users/npub1xr4jdgh7htsuraq8y34pufv3kc5mz2h9h0r9lv9a9t0xeuctvp6smrfyy8"
+description = "每小时自动发送一条日语文法，包含文法，日文例句及中文翻译。"
+description_en = "Automatically sends a Japanese grammar every hour, including grammar, Japanese example sentences and Chinese translation"
+
+[[categories]]
+name = "工具"
+name_en = "Tools"
+
+[[categories.projects]]
+name = "danmakustr"
+name_en = "danmakustr"
+url = "https://github.com/CodyTseng/danmakustr"
+description = "一款通过 Nostr 实现去中心化的 YouTube 弹幕插件"
+description_en = "A decentralized YouTube Danmaku extension implemented through Nostr"
+tags = ["浏览器插件"]
+tags_en = ["browser extension"]
+
+[[categories.projects]]
+name = "nowser"
+name_en = "nowser"
+url = "https://github.com/haorendashu/nowser"
+description = "一个安全的 Nostr 密钥管理和签名应用，支持 iOS 和 Android，支持 NIP-07、NIP-46 和 NIP-55"
+description_en = "A secure nostr key management and signing app for iOS and Android that supports NIP-07, NIP-46 and NIP-55"
+tags = ["移动端", "签名器"]
+tags_en = ["mobile", "signer"]
+
+[[categories.projects]]
+name = "pigeon"
+name_en = "pigeon"
+url = "https://github.com/CodyTseng/pigeon"
+description = "一个 Nostr 中继器反向代理服务，可以将本地中继器暴露到公共互联网上，已经集成进 nostr-relay-tray"
+description_en = "A Nostr relay reverse proxy service that exposes local relays to the public internet, already integrated into nostr-relay-tray"
+
+[[categories]]
+name = "教程和资源"
+name_en = "Tutorials and Resources"
+
+[[categories.projects]]
+name = "欢迎加入 Nostr, 这是一份快速入门指南"
+name_en = "Welcome to Nostr, a quick start guide"
+url = "https://blog.cxplay.org/works/nostr-quick-start-guide/"

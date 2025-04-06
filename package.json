@@ -1,0 +1,25 @@
+{
+  "name": "awesome-nostr-zh",
+  "version": "1.0.0",
+  "description": "由中文开发者开发的 Nostr 相关项目集合 | Collection of Nostr projects by Chinese developers",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "update": "node generate.js"
+  },
+  "keywords": [
+    "awesome",
+    "nostr",
+    "chinese",
+    "中文",
+    "中继器",
+    "客户端",
+    "bilingual",
+    "双语"
+  ],
+  "author": "",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@iarna/toml": "^2.2.5"
+  }
+}
