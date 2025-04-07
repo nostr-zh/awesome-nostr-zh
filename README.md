@@ -10,7 +10,7 @@
 
 ## 客户端
 
-- [0xchat](https://github.com/0xchat-app) - 一个类似于 Telegram/WeChat 的 Nostr 客户端，支持 iOS 和 Android。 `#移动端` `#聊天`
+- [0xchat](https://github.com/0xchat-app) - 一个类似于 Telegram/WeChat 的 Nostr 客户端，支持 Android、iOS、macOS、Windows 和 Linux。 `#移动端` `#聊天`
 - [Jumble](https://github.com/CodyTseng/jumble) - 一个交互友好的 Nostr 客户端，专注于中继器浏览和发现。 `#网页端`
 - [Nostrmo](https://github.com/haorendashu/nostrmo) - 一个 Flutter 开发的 Nostr 客户端，支持 Android、iOS、macOS、Windows、Web 和 Linux。 `#移动端` `#桌面端`
 
@@ -26,6 +26,8 @@
 ## 库
 
 - [nostr-relay](https://github.com/CodyTseng/nostr-relay) - 一个开发中继器的 TypeScript 框架。
+- [cashu-dart](https://github.com/0xchat-app/cashu-dart) - 一个用dart语言实现cashu协议的库。
+- [nostr-dart](https://github.com/0xchat-app/nostr-dart) - 一个用dart语言实现nostr协议的库。
 
 ## 机器人
 
