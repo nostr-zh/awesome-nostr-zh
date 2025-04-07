@@ -36,11 +36,11 @@ name = "中继器"
 name_en = "Relays"
 
 [[categories.projects]]
-name = "wss://nostr.moe"
-name_en = "wss://nostr.moe"
-url = "https://nostr.moe/"
-description = "待 cxplay 补充"
-description_en = "To be supplemented by cxplay"
+name = "wss://relay.nostr.moe"
+name_en = "wss://relay.nostr.moe"
+url = "https://relay.nostr.moe/"
+description = "Nostr.moe 社区中继 (需要注册)"
+description_en = "Nostr.moe community relay (Registration required)"
 tags = ["ACG"]
 tags_en = ["ACG"]
 
