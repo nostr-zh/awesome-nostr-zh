@@ -8,7 +8,7 @@ name_en = "Clients"
 name = "0xchat"
 name_en = "0xchat"
 url = "https://github.com/0xchat-app"
-description = "一个类似于 Telegram/WeChat 的 Nostr 客户端，支持 iOS 和 Android"
+description = "一个类似于 Telegram/WeChat 的 Nostr 客户端，支持 Android、iOS、macOS、Windows 和 Linux"
 description_en = "A telegram/wechat-like nostr client for iOS and Android"
 tags = ["移动端", "聊天"]
 tags_en = ["mobile", "chat"]
@@ -72,6 +72,20 @@ name_en = "nostr-relay"
 url = "https://github.com/CodyTseng/nostr-relay"
 description = "一个开发中继器的 TypeScript 框架"
 description_en = "A TypeScript framework for building relays"
+
+[[categories.projects]]
+name = "cashu-dart"
+name_en = "cashu-dart"
+url = "https://github.com/0xchat-app/cashu-dart"
+description = "一个用dart语言实现cashu协议的库"
+description_en = "Cashu-dart is a library written in the Dart programming language, specifically designed to implement and support the protocols of Cashu"
+
+[[categories.projects]]
+name = "nostr-dart"
+name_en = "nostr-dart"
+url = "https://github.com/0xchat-app/nostr-dart"
+description = "一个用dart语言实现nostr协议的库"
+description_en = "This is a Dart implementation of the Nostr protocol"
 
 [[categories]]
 name = "机器人"
