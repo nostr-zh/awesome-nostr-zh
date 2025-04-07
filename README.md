@@ -11,6 +11,7 @@
 ## 客户端
 
 - [0xchat](https://github.com/0xchat-app) - 一个类似于 Telegram/WeChat 的 Nostr 客户端，支持 Android、iOS、macOS、Windows 和 Linux。 `#移动端` `#聊天`
+- [Flycat](https://github.com/digi-monkey/flycat-web) - 一个 2000 年代老式风格的网页客户端，支持在 Nostr 上写博客。 `#网页端`
 - [Jumble](https://github.com/CodyTseng/jumble) - 一个交互友好的 Nostr 客户端，专注于中继器浏览和发现。 `#网页端`
 - [Nostrmo](https://github.com/haorendashu/nostrmo) - 一个 Flutter 开发的 Nostr 客户端，支持 Android、iOS、macOS、Windows、Web 和 Linux。 `#移动端` `#桌面端`
 

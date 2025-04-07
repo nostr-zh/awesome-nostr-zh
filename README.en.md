@@ -11,6 +11,7 @@
 ## Clients
 
 - [0xchat](https://github.com/0xchat-app) - A telegram/wechat-like nostr client for iOS and Android. `#移动端` `#聊天`
+- [Flycat](https://github.com/digi-monkey/flycat-web) - A 2000s old-school style web client which support blogging on Nostr. `#网页端`
 - [Jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client focused on relay feed browsing and relay discovery. `#网页端`
 - [Nostrmo](https://github.com/haorendashu/nostrmo) - A flutter nostr client for Android, IOS, MacOS, Windows, Web and Linux. `#移动端` `#桌面端`
 
