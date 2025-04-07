@@ -26,6 +26,8 @@
 ## 库
 
 - [nostr-relay](https://github.com/CodyTseng/nostr-relay) - 一个开发中继器的 TypeScript 框架。
+- [nostrbridge](https://github.com/duozhutuan/nostrbridge) - relay 桥 转发
+- [nostrclient](https://github.com/duozhutuan/nostrclient) - nostrclient python客户端库
 
 ## 机器人
 
@@ -40,6 +42,7 @@
 ## 教程和资源
 
 - [欢迎加入 Nostr, 这是一份快速入门指南](https://blog.cxplay.org/works/nostr-quick-start-guide/)
+- [nostrbook.com在线写书](https://nostrbook.com)
 
 ## 贡献指南
 
