@@ -14,6 +14,15 @@ tags = ["移动端", "聊天"]
 tags_en = ["mobile", "chat"]
 
 [[categories.projects]]
+name = "Flycat"
+name_en = "Flycat"
+url = "https://github.com/digi-monkey/flycat-web"
+description = "一个 2000 年代老式风格的网页客户端，支持在 Nostr 上写博客"
+description_en = "A 2000s old-school style web client which support blogging on Nostr"
+tags = ["网页端"]
+tags_en = ["web"]
+
+[[categories.projects]]
 name = "Jumble"
 name_en = "Jumble"
 url = "https://github.com/CodyTseng/jumble"
