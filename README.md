@@ -16,7 +16,7 @@
 
 ## 中继器
 
-- [wss://nostr.moe](https://nostr.moe/) - 待 cxplay 补充。 `#ACG`
+- [wss://relay.nostr.moe](https://relay.nostr.moe/) - Nostr.moe 社区中继 (需要注册)。 `#ACG`
 - [wss://nostr-relay.app](https://jumble.social/?r=nostr-relay.app) - 一个用于测试的普通的免费的公共 Nostr 中继器。
 
 ## 中继器实现

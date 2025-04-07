@@ -16,7 +16,7 @@
 
 ## Relays
 
-- [wss://nostr.moe](https://nostr.moe/) - To be supplemented by cxplay. `#ACG`
+- [wss://relay.nostr.moe](https://relay.nostr.moe/) - Nostr.moe community relay (Registration required). `#ACG`
 - [wss://nostr-relay.app](https://jumble.social/?r=nostr-relay.app) - A normal free public Nostr relay for testing.
 
 ## Relay Implementations
