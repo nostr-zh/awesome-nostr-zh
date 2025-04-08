@@ -43,6 +43,7 @@
 ## Tutorials and Resources
 
 - [Welcome to Nostr, a quick start guide](https://blog.cxplay.org/works/nostr-quick-start-guide/)
+- [Online Writing Platform](https://nostrbook.com) - An online platform for writing books. `#在线写作` `#内容创作`
 
 ## Contribution Guidelines
 
