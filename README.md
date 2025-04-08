@@ -43,7 +43,7 @@
 ## 教程和资源
 
 - [欢迎加入 Nostr, 这是一份快速入门指南](https://blog.cxplay.org/works/nostr-quick-start-guide/)
-- [在线写书平台](https://nostrbook.com) - 提供在线写书功能的平台。 `#在线写作` `#内容创作`
+- [nostrbook 在线写书平台](https://nostrbook.com) - 提供在线写书功能的平台。 `#在线写作` `#内容创作`
 
 ## 贡献指南
 
