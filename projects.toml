@@ -144,3 +144,12 @@ name_en = "Tutorials and Resources"
 name = "欢迎加入 Nostr, 这是一份快速入门指南"
 name_en = "Welcome to Nostr, a quick start guide"
 url = "https://blog.cxplay.org/works/nostr-quick-start-guide/"
+
+[[categories.projects]]
+name = "在线写书平台"
+name_en = "Online Writing Platform"
+url = "https://nostrbook.com"
+description = "提供在线写书功能的平台"
+description_en = "An online platform for writing books"
+tags = ["在线写作", "内容创作"]
+tags_en = ["online writing", "content creation"]
