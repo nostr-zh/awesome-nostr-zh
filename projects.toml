@@ -146,8 +146,8 @@ name_en = "Welcome to Nostr, a quick start guide"
 url = "https://blog.cxplay.org/works/nostr-quick-start-guide/"
 
 [[categories.projects]]
-name = "在线写书平台"
-name_en = "Online Writing Platform"
+name = "nostrbook 在线写书平台"
+name_en = "nostrbook Online Writing Platform"
 url = "https://nostrbook.com"
 description = "提供在线写书功能的平台"
 description_en = "An online platform for writing books"
