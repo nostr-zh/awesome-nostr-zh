@@ -29,6 +29,7 @@
 - [nostr-relay](https://github.com/CodyTseng/nostr-relay) - 一个开发中继器的 TypeScript 框架。
 - [cashu-dart](https://github.com/0xchat-app/cashu-dart) - 一个用dart语言实现cashu协议的库。
 - [nostr-dart](https://github.com/0xchat-app/nostr-dart) - 一个用dart语言实现nostr协议的库。
+- [nostrclient](https://github.com/duozhutuan/nostrclient) - Python 编写的 Nostr 客户端库。 `#Python` `#客户端开发`
 
 ## 机器人
 

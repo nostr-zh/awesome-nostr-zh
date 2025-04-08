@@ -29,6 +29,7 @@
 - [nostr-relay](https://github.com/CodyTseng/nostr-relay) - A TypeScript framework for building relays.
 - [cashu-dart](https://github.com/0xchat-app/cashu-dart) - Cashu-dart is a library written in the Dart programming language, specifically designed to implement and support the protocols of Cashu.
 - [nostr-dart](https://github.com/0xchat-app/nostr-dart) - This is a Dart implementation of the Nostr protocol.
+- [nostrclient](https://github.com/duozhutuan/nostrclient) - A Nostr client library written in Python. `#Python` `#客户端开发`
 
 ## Bots
 
