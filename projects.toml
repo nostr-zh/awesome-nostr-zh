@@ -96,6 +96,15 @@ url = "https://github.com/0xchat-app/nostr-dart"
 description = "一个用dart语言实现nostr协议的库"
 description_en = "This is a Dart implementation of the Nostr protocol"
 
+[[categories.projects]]
+name = "nostrclient"
+name_en = "nostrclient"
+url = "https://github.com/duozhutuan/nostrclient"
+description = "Python 编写的 Nostr 客户端库"
+description_en = "A Nostr client library written in Python"
+tags = ["Python", "客户端开发"]
+tags_en = ["Python", "client development"]
+
 [[categories]]
 name = "机器人"
 name_en = "Bots"
