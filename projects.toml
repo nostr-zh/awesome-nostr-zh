@@ -145,6 +145,13 @@ url = "https://github.com/CodyTseng/pigeon"
 description = "一个 Nostr 中继器反向代理服务，可以将本地中继器暴露到公共互联网上，已经集成进 nostr-relay-tray"
 description_en = "A Nostr relay reverse proxy service that exposes local relays to the public internet, already integrated into nostr-relay-tray"
 
+[[categories.projects]]
+name = "pocket-wallet"
+name_en = "pocket-wallet"
+url = "https://github.com/RetricSu/pocket-wallet"
+description = "一个基于 Nostr 账户的 CKB 区块链钱包。支持 Nip07 与 Nip46 登陆，使用轻客户端在网页中直接同步区块链，不依赖中心化 RPC 管理链上的资产。"
+description_en = "a nostr-based wallet on CKB blockchain. It uses CKB Light Client to sync the blockchain right in your browser without relying on any centralized RPC service. support Nip07 and Nip46."
+
 [[categories]]
 name = "教程和资源"
 name_en = "Tutorials and Resources"
