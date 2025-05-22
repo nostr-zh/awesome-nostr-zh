@@ -40,6 +40,7 @@
 - [danmakustr](https://github.com/CodyTseng/danmakustr) - 一款通过 Nostr 实现去中心化的 YouTube 弹幕插件。 `#浏览器插件`
 - [nowser](https://github.com/haorendashu/nowser) - 一个安全的 Nostr 密钥管理和签名应用，支持 iOS 和 Android，支持 NIP-07、NIP-46 和 NIP-55。 `#移动端` `#签名器`
 - [pigeon](https://github.com/CodyTseng/pigeon) - 一个 Nostr 中继器反向代理服务，可以将本地中继器暴露到公共互联网上，已经集成进 nostr-relay-tray。
+- [pocket-wallet](https://github.com/RetricSu/pocket-wallet) - 一个基于 Nostr 账户的 CKB 区块链钱包。支持 Nip07 与 Nip46 登陆，使用轻客户端在网页中直接同步区块链，不依赖中心化 RPC 管理链上的资产。。
 
 ## 教程和资源
 

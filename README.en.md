@@ -40,6 +40,7 @@
 - [danmakustr](https://github.com/CodyTseng/danmakustr) - A decentralized YouTube Danmaku extension implemented through Nostr. `#浏览器插件`
 - [nowser](https://github.com/haorendashu/nowser) - A secure nostr key management and signing app for iOS and Android that supports NIP-07, NIP-46 and NIP-55. `#移动端` `#签名器`
 - [pigeon](https://github.com/CodyTseng/pigeon) - A Nostr relay reverse proxy service that exposes local relays to the public internet, already integrated into nostr-relay-tray.
+- [pocket-wallet](https://github.com/RetricSu/pocket-wallet) - a nostr-based wallet on CKB blockchain. It uses CKB Light Client to sync the blockchain right in your browser without relying on any centralized RPC service. support Nip07 and Nip46..
 
 ## Tutorials and Resources
 
